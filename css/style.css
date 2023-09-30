@@ -1,4 +1,8 @@
 * {
+  box-sizing: border-box;
+}
+
+body {
   font-family: "Nunito", sans-serif;
 }
 @font-face {
@@ -7,8 +11,4 @@
   src: url("Muli-SemiBold.woff2") format("woff2");
   src: url("Muli-SemiBold.woff") format("woff");
   src: url("Muli-SemiBold.woff") format("woff");
-}
-
-body {
-  box-sizing: border-box;
 }/*# sourceMappingURL=style.css.map */
